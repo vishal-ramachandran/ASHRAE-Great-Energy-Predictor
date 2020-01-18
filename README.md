@@ -24,7 +24,7 @@ Building level hourly data of energy consumption readings collected from 4 diffe
 # Patterns in energy consumption
 ![Alt Text](Energy_consumption_trend.png)
 
-![Alt Text](Air_temp_variation.png)
+![Alt Text](Air_Temp_variation.png)
 
 # Sample forecast
 Below is a sample forecast obtained from the results of ensembling LightGBM and CatBoost
