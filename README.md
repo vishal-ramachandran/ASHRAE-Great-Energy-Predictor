@@ -14,6 +14,8 @@ Site level hourly data of temperature, wind speed, precipitation, cloud coverage
 Building level hourly data of energy consumption readings collected from 4 different meters<br />
 20 million training data points and 40 million test data points
 
+Kaggle competition link: https://www.kaggle.com/c/ashrae-energy-prediction
+
 # Approach
 •	Data size reduction – Converting int64 and float64 datatypes to int32 and float32 reduced the memory consumption of 60 million data points from 8GB to 4GB<br />
 •	Removed columns with >70% nulls<br />
